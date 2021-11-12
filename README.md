@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there, I'm Tibebe! 👋
 
-![Tib-source's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib-source&show_icons=true&theme=radical)
-
+<img alight='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=tib-source&show_icons=true&theme=radical" /> 
+<img alight='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tib-source&layout=compact" /> 
 
 <!--
 **tib-source/tib-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
