@@ -3,7 +3,7 @@
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=tib-source&show_icons=true&theme=default" /> 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tib-source&layout=compact" /> 
-
+<br /> 
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> Skills </h2>
