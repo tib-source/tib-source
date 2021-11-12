@@ -1,10 +1,11 @@
 # Hi there, I'm Tibebe! 👋
 
-<div align="center">
+
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=tib-source&show_icons=true&theme=default" /> 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tib-source&layout=compact" /> 
-</div>
+
 <p align="center"> (Open for Hiring)</p>
+
 <h2 align="center"> Skills </h2>
 <p align="center">
 <img align='left' alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /> 
