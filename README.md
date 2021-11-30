@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning react, typescript and django
 - 📫 How to reach me: <a href='www.linkedin.com/in/tibebe-d-41b421216'>Linked In</a>
 - ⚡ Fun fact: There was a bear enlisted in the polish army who made it to the rank of Corporal. He also smoked, drank and carried weapons to the front during battles. His name was Wojtek.
+- ![](https://komarev.com/ghpvc/?username=tib-source)
+
 
 
 
@@ -31,7 +33,6 @@
 <img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  </p>
-
 
 
 
