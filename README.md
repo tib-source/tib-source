@@ -2,10 +2,10 @@
 
 <img align='right' src='https://github-readme-streak-stats.herokuapp.com/?user=tib-source' />
 
-- 🔭 I’m currently working on my own open source social media app called Nix using django and react 
-- 🌱 I’m currently learning react, typescript and django
-- 📫 How to reach me: <a href='www.linkedin.com/in/tibebe-d-41b421216'>Linked In</a>
-- ⚡ Fun fact: There was a bear enlisted in the polish army who made it to the rank of Corporal. He also smoked, drank and carried weapons to the front during battles. His name was Wojtek.
+- 🔭 I’m currently working on my own open-source social media app called Nix using Django and react 
+- 🌱 I’m currently learning React, typescript, and Django
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tibebe-d-41b421216/)
+- ⚡ Fun fact: A bear enlisted in the Polish army made it to the rank of Corporal. He smoked, drank, and carried weapons to the front during battles. His name was Wojtek.
 - ![](https://komarev.com/ghpvc/?username=tib-source)
 
 
