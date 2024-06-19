@@ -1,7 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Tibebe </h1>
 
-<img align='right' src='https://github-readme-streak-stats.herokuapp.com/?user=tib-source' />
-
 - I’m currently working on an Equipment management tool for universities using Spring boot and react  
 - Currently learning React, Spring Boot and Typescript 
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/tibebe-d-41b421216/)
