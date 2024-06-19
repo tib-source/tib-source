@@ -2,11 +2,9 @@
 
 <img align='right' src='https://github-readme-streak-stats.herokuapp.com/?user=tib-source' />
 
-- 🔭 I’m currently working on an AI-based educational platform called Lumin using React and Node/Express 
-- 🌱 I’m currently learning React, Express, MongoDB, Typescript, and Django
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tibebe-d-41b421216/)
-- ⚡ Fun fact: A bear enlisted in the Polish army made it to the rank of Corporal. He smoked, drank, and carried weapons to the front during battles. His name was Wojtek.
-- ![](https://komarev.com/ghpvc/?username=tib-source)
+- I’m currently working on an Equipment management tool for universities using Spring boot and react  
+- Currently learning React, Spring Boot and Typescript 
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/tibebe-d-41b421216/)
 
 
 
