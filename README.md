@@ -7,9 +7,6 @@
 
 
 
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=tib-source&show_icons=true&theme=default" /> 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tib-source&layout=compact" />
-
 <h2 align="center"> Skills and Tools</h2>
 
 <p align="center">
