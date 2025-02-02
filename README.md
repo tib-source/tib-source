@@ -1,6 +1,6 @@
 <h1 align='center'> Hi 👋, I'm Tibebe </h1>
 
-- I’m currently working on an Equipment management tool for universities using Spring boot and react  
+- I’m currently working on an [Equipment management tool](https://www.github.com/tib-source/Ergon) for universities using Spring boot and react  
 - Currently learning React, Spring Boot and Typescript 
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/tibebe-d-41b421216/)
 
